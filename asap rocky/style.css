@@ -1,0 +1,39 @@
+body {
+    background-color: gray;
+}
+
+img {
+    width: 200px;
+}
+
+.text5 {
+    color: bisque;
+}
+
+.text7 {
+    font: small-caps 15px Verdana;
+} 
+    
+.text8 {
+    font: small-caps 15px Verdana;
+}
+
+.text6 {
+    font: small-caps 15px Verdana;
+}
+
+.text1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
